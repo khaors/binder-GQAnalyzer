@@ -1,0 +1,8 @@
+install.packages("devtools")
+install.packages("shiny")
+install.packages("ggplot2")
+install.packages("grid")
+install.packages("gridExtra")
+install.packages("DT")
+install.packages("dplyr")
+devtools::install_github("khaors/GWAnalyzer")
